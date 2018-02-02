@@ -1,0 +1,20 @@
+.container {
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+.item {
+  float: left;
+  width: 64px;
+  height: 64px;
+  border: 1px solid #42b983;
+  background: #e0e0ee;
+}
+
+.item.diff {
+  background: #e0e0e0;
+}
